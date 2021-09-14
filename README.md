@@ -1,2 +1,100 @@
-# ComplyAdvantage
-Unit 1 Homework Assignment ComplyAdvantage
+# ComplyAdvantage RegTech Case Study
+
+```py
+Unit One Homework Assignment: FinTech Case Study
+Domain: Regulation Technology (RegTech)
+Company: ComplyAdvantage
+Author: Rachel Pierce
+Date:  September 2021
+```
+
+## Overview and Origin
+
+
+
+
+![image](./images/Complyadvantagescreenshot.png)
+
+**ComplyAdvantage** is an AI-driven risk management database for companies that can potentilally be hurt by financial crime.  The company's proprietary Anti-Money Launder (AML) data feed creates profiles, automates customer monitoring with KYC and due diligence tools and screens payments in real-time.  The ComplyAdvantage platform is currently used by more than 500 companies in money-transferring industries, including payments, stock trading, and even gambling, across 75 countries.
+
+ComplyAdvantage was born out of the frustration experienced by founder Charles Delingpole while evaluating AML data providers.  Despite trying numerous tools, Charles felt like they were too difficult to integrate, were hard to use, and provided too many false positive alerts.  ComplyAdvantage was founded in 2014 and automated AML data generation, which required technical architecture, cutting-edge AI, and hudreds of developers, data scientists, and financial crime professionals.
+
+
+
+
+![image](./images/companyquote.png)
+
+ComplyAdvantage has over 500 customers, including some of the world's leading companies such as robinhood, affirm, Santander, Paxos, etc.  After implementation, Santander was able to reduce onboarding time by 80%, Paxos improved their efficiency by 80%, and IPT Africa's false positives were reduced by 60%.  Their competitive advantage includes their proprietary data,which is used to better segment and screen data according to the customer's risk appetite, and it is designed to provide all the functionality the customer needs to integrate into their AML processes.  There are no legacy technology issues to deal with and it includes easy to understand transparent API documentation.  The customer is able to get set up in hours, not months.
+
+
+
+Well-known investors and industry experts are helping guide the path, including Index Ventures, Balderton Capital, and Ontario Teachers' Pension Plan.  The company has received total funding of $108.2 million (series C) from five total investors, with $20 million last raised four months ago.
+
+
+## **Landscape**
+
+ComplyAdvantage operates with the Regulatory Technology (RegTech) domain.  
+
+There are around 220 regulatory revisions to keep track of daily, and regulatory fines have exceeded $345 billion since 2009.  Compliance costs continue to increase substantially, with some smaller companies not able to afford a compliance program that meets regulatory expectations.  This has created RegTech, which are companies that provide technology-based solutions to address regulatory challenges.  RegTech uses technologies to facilitate meeting compliance and regulatory requirements and create a source of competitive differentiation.  RegTech harnesses the power of big data, artificial intelligence (AI) and blockchain to reduce financial risk, increase regulatory compliance, and stamp out laundering and fraud - all of which contribute to an estimated $2 trillion year loss for the global economy.
+
+Main technologies supporting RegTech include:
+- Cloud Computing
+- Blockchain
+- Application Program Interface
+- Machine Learning
+- Big Data
+- Data Mining & Analytics
+- Predictive Analysis
+- Smart Contracts
+- Visualization Solutions
+
+Deloitte started tracking the RegTech Universe four years ago, which has grown from 150 to more than 400 solutions and the market continues to expand.  More and more companies are using RegTech products and services to help them overcome compliance and regulatory hurdles.  Banks are able to use solutions to increase the quality of their risk management, reduce compliance costs, or automate onboarding processes.  Deloitte identified five main categories within the RegTech Universe:
+
+![image](./images/regtechtypes.png)
+
+The number one category is compliance at 41%.  While Deloitte's list is not all inclusive of every RegTech in the market, the data is helpful in showing the main categories within the RegTech world and how they compare, and also how this world continues to expand.  Given the significant amount of regulatory changes that will take place as governments seek to respond to new financial technologies, including virtual assets, and promote the use of technology to tackle financial crime, this industry will continue to grow and regulatory expectations will continue to rise.  The need for smart compliance solutions will only increase.
+
+With the heightened expectation for companies to monitor potential risk, detect fraud, and run day-to-day operations, more and more RegTech companies are making their way into customers hands.  The relatively young RegTech market is on track to reach $16 billion by 2025 and $22 billion by 2027.  A few of the top RegTech startups according to explodingtopics.com are:
+1. Chainanalysis (AML and risk detection solutions provider for blockchains)
+2. Behavox (Offers a collection of risk and compliance-related solutions for enterprises)
+1. ComplyAdvantage (Offers AML solutions to financial institutions)
+2. Tookitaki (compliance platform as a service company)
+1. Ascent (Cloud-based regulatory compliance software for financial businesses, banks, law firms, and asset management companies)
+
+
+
+## **Results**
+
+In a 24-hour span, the company's AML database can analyze five million news articles across 200 countries and update 30,000 KYC profiles.  This has provided live financial crime insight, screening against the cleanest risk data, 24/7 monitoring, and easy integration.  Payments can be processed faster and onboarding time can be cut in half.
+
+The company has won multiple awards, including the XCelent Advanced Technology Award, LIBF Best Innovation For Corporate Onboarding, and the Sunday Times Tech Track Digital Innovation Award.
+
+*What are some of the core metrics that companies in this domain use to measure success?  How is your company performing, based on these metrics?*
+
+
+*How is your company performing relative to competitors in the same domain?*
+
+
+## **Recommendations**
+
+I recommend expanding products and services outside of AML/KYC to other compliance areas/regulations, such as compliance with Fair Lending laws.  This would benefit the company by helping to automate and provide more efficient data analysis to its clients who are also required to comply with these other regulations that may be manual and time consuming.  This additional product would likely require the same type of technologies already used in the AML software, so it would seem easy to implement by changing requirements and parameters within the software.  For example, instead of screening data for money laundering or fraud, they could screen data for redlining or unfair or deceptive practices against prohibited basis groups, such as race.  This technology could dramatically improve the analysis that is required for various Fair Lending regulations as well as the Consumer Reinvestment Act.
+
+
+## **References**
+
+[ComplyAdvantage Company Website](https://complyadvantage.com/)
+
+
+[ComplyAdvantage Blog](https://complyadvantage.com/blog/)
+
+[The State of Financial Crimes 2021](https://complyadvantage.com/resource-hub/type/guide/the-state-of-financial-crime-2021/?fincrime21=fincrime21614014693b66d)
+
+[Deloitte RegTech Universe 2021](https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html) and "RegTech Business Cases 2021 Report"
+
+[builtin BETA website](https://builtin.com/fintech/regtech-companies)
+
+
+[20 RegTech Startups on the Rise in 2021](https://explodingtopics.com/blog/regtech-startups)
+
+
+[CBInsights](https://www.cbinsights.com/company/complyadvantage)
