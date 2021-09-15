@@ -18,9 +18,7 @@ Date:  September 2021
 ComplyAdvantage was born out of the frustration experienced by founder Charles Delingpole while evaluating AML data providers.  With cybercrime, fraud, and money laundering on the rise, an effective AML program was absolutely essential.   But despite trying numerous tools, Charles felt like they were too difficult to integrate, were hard to use, and provided too many false positive alerts.  ComplyAdvantage was founded in 2014 and automated AML data generation, which required technical architecture, cutting-edge AI, and hundreds of developers, data scientists, and financial crime professionals.
 
 
-
-  
-![image](./images/companyquote.png)
+![image](./images/quote.png)
 
    
 ComplyAdvantage has over 500 customers, including some of the world's leading companies such as robinhood, affirm, Santander, and Paxos, and results have been very positive.  After implementation, Santander was able to reduce onboarding time by 80%, Paxos improved their efficiency by 80%, and IPT Africa's false positives were reduced by 60%.  
